@@ -1,7 +1,7 @@
 # drf-api-permissions-postgres
 
 ## Django REST Framework & Docker
-### Author: IBrahim adnan
+### Author: Ibrahim adnan
 #### How to initialize/run your application (where applicable)
 to run the app:
-- docker-compose up --build
+- docker-compose up 
